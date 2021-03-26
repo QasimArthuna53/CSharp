@@ -1,0 +1,5 @@
+C:\Users\Qasim Arthuna\Documents\SharpDevelop Projects\DataTransferer\DataTransferer\bin\Debug\DataTransferer.exe
+C:\Users\Qasim Arthuna\Documents\SharpDevelop Projects\DataTransferer\DataTransferer\bin\Debug\DataTransferer.pdb
+C:\Users\Qasim Arthuna\Documents\SharpDevelop Projects\DataTransferer\DataTransferer\obj\Debug\DataTransferer.csprojResolveAssemblyReference.cache
+C:\Users\Qasim Arthuna\Documents\SharpDevelop Projects\DataTransferer\DataTransferer\obj\Debug\DataTransferer.exe
+C:\Users\Qasim Arthuna\Documents\SharpDevelop Projects\DataTransferer\DataTransferer\obj\Debug\DataTransferer.pdb
